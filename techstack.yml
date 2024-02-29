@@ -2,14 +2,14 @@ repo_name: terasa/example-ios-apps
 report_id: 2f813d77097e6baca57e6b2b5fcee4f4
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:24:49+00:00'
+timestamp: '2024-02-29T18:03:21+00:00'
 requested_by: stevenanthonyrevo
 provider: github
 branch: master
 detected_tools_count: 2
 tools:
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
